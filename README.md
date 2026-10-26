@@ -1,6 +1,11 @@
 
 # Customer Support Ticket Tracker
 
+
+## Live Demo
+
+[View Customer Support Ticket Tracker](https://lilasia904.github.io/customer-support-tracker/)
+
 ## About the Project
 
 A customer support ticket tracker built using HTML, CSS, and JavaScript.
